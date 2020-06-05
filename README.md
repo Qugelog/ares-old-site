@@ -1,1 +1,1 @@
-# qugelog.github.io
+# Qugelog
